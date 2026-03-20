@@ -1,8 +1,5 @@
 
 
-
-# 📁 3. ShopVibe – E-commerce Platform
-
 # 🛒 ShopVibe – Full Stack E-commerce Platform
 
 A modern full-stack e-commerce application supporting product browsing, secure payments, and admin management.
